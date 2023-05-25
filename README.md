@@ -1,26 +1,22 @@
-# GraphQL server in Node.js
+# GraphQL server in NodeJS
 
 Simple implementation of GraphQL application in Node.js using Apollo server.
 
-#Features
+# Features
 
--NodeJs
--GraphQL
--ExpressJS
--Mysql
--Apollo Server
+- NodeJs
+- GraphQL
+- ExpressJS
+- Mysql
+- Apollo Server
 
-#Prerequisites
+# Prerequisites
 
--Install Node.js version 18.16.0 
--Running MySQL on port 3306.
--Create graphQL database with current user access.
+- Install Node.js version 18.16.0
+- Running MySQL on port 3306.
+- Create graphQL database with current user access.
 
-# Project Name
-
-- GraphQL server in Node.js with Mysql.
-
-#Installation and running
+# Installation and running
 
 1. Clone this repo
 
@@ -84,7 +80,7 @@ query{
   }
 }
 ```
-Get specifc record by id
+Get specific record by id
 
 ```bash
  query{
@@ -95,38 +91,38 @@ Get specifc record by id
   	}
   }	
 ```
-Update specifc record
+Update specific record
 
 ```bash
 mutation{
   updateUser(id:1,name:"tecoreng",email:"info@tecoreng.com",gender:"Male",status:1){
-		id,
+    id,
     name,
     email
-	}
+  }
 }
 ```
-Delete specifc record by id
+Delete specific record by id
 
 ```bash
 mutation{
   deleteUser(id:9){
-		status,
+    status,
     message,
     error
-	}
+  }
 }
 ```
 
-#Social media Link	
+# Social media Link	
 
--facebook  : https://www.facebook.com/Tecoreng/
--instagram : https://www.instagram.com/Technical_Core_Engineers/
--twitter   : https://twitter.com/tecoreng
--linkedin  : https://linkdin.com/company/tecoreng/
--pintrest  : https://in.pinterest.com/TechnicalCoreEngineers/
--medium    : https://medium.com/@Tecoreng
--dribbble  : https://dribbble.com/TechnicalCoreEngineers
--behance   : https://www.behance.net/Tecoreng
+- Facebook  : https://www.facebook.com/Tecoreng
+- Instagram : https://www.instagram.com/Technical_Core_Engineers
+- Twitter   : https://twitter.com/tecoreng
+- Linkedin  : https://linkdin.com/company/tecoreng
+- Pintrest  : https://in.pinterest.com/TechnicalCoreEngineers
+- Medium    : https://medium.com/@Tecoreng
+- Dribbble  : https://dribbble.com/TechnicalCoreEngineers
+- Behance   : https://www.behance.net/Tecoreng
 	
 
