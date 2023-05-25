@@ -25,7 +25,7 @@ Simple implementation of GraphQL application in Node.js using Apollo server.
 1. Clone this repo
 
 ```bash
-git clone REPO_URL
+git clone https://github.com/tecoreng/graphql-nodejs-server.git
 ```
 
 2. Go to the cloned folder
