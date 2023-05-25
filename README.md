@@ -18,25 +18,25 @@ Simple implementation of GraphQL application in Node.js using Apollo server.
 
 # Installation and running
 
-1. Clone this repo
+#### 1. Clone this repo
 
 ```bash
 git clone https://github.com/tecoreng/graphql-nodejs-server.git
 ```
 
-2. Go to the cloned folder
+#### 2. Go to the cloned folder
 
 ```bash
 cd ./graphql-nodejs-server
 ```
 
-3. Install dependencies
+#### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-4. Update `.env` file with connection URL for Mysql:
+#### 4. Update `.env` file with connection URL for Mysql:
 
 ```bash
 DB_HOST  = "localhost"
@@ -47,18 +47,18 @@ DB_PASSWORD = "root"
 
 ```
 
-5. Run the development server:
+#### 5. Run the development server:
 
 ```bash
 npm run dev
 ```
 
-6. Go to http://localhost:4444 See graphQL Playground.
+####  6. Go to http://localhost:4444 See graphQL Playground.
 
 
-#Functions
+# CURD GraphQL functions
 
-Insert new records to table
+##### Insert new records to table
 
 ```bash
   mutation{
@@ -68,7 +68,7 @@ Insert new records to table
     }
   }
 ```
-List of all records
+##### List of all records
 
 ```bash
 query{
@@ -80,7 +80,7 @@ query{
   }
 }
 ```
-Get specific record by id
+##### Get specific record by id
 
 ```bash
  query{
@@ -91,7 +91,7 @@ Get specific record by id
   	}
   }	
 ```
-Update specific record
+##### Update specific record
 
 ```bash
 mutation{
@@ -102,7 +102,7 @@ mutation{
   }
 }
 ```
-Delete specific record by id
+#####  Delete specific record by id
 
 ```bash
 mutation{
