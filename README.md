@@ -116,13 +116,11 @@ mutation{
 
 # Social media Link	
 
-- Facebook  : https://www.facebook.com/Tecoreng
-- Instagram : https://www.instagram.com/Technical_Core_Engineers
-- Twitter   : https://twitter.com/tecoreng
-- Linkedin  : https://linkdin.com/company/tecoreng
-- Pintrest  : https://in.pinterest.com/TechnicalCoreEngineers
-- Medium    : https://medium.com/@Tecoreng
-- Dribbble  : https://dribbble.com/TechnicalCoreEngineers
-- Behance   : https://www.behance.net/Tecoreng
-	
-
+<a href="https://www.facebook.com/Tecoreng" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40" height="40"/></a>
+<a href="https://www.instagram.com/Technical_Core_Engineers" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/tecoreng" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://linkdin.com/company/tecoreng" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://in.pinterest.com/TechnicalCoreEngineers" target="_blank"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://medium.com/@Tecoreng" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="40" height="40"/></a>
+<a href="https://dribbble.com/TechnicalCoreEngineers" target="_blank"><img src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" width="40" height="40"/></a>
+<a href="https://www.behance.net/Tecoreng" target="_blank"><img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" width="40" height="40"/></a>
